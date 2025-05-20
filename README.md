@@ -3,10 +3,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <h3 align="left">📄 Resume:</h3>
 <p align="left">
-  <a href="[Rushikesh Khamkar - Resume.pdf](https://github.com/user-attachments/files/20322231/Rushikesh.Khamkar.-.Resume.pdf)" target="_blank">View My Resume</a>
+  <a href="https://github.com/user-attachments/files/20322231/Rushikesh.Khamkar.-.Resume.pdf" target="_blank">View My Resume</a>
 </p>
+
+
 <a href="https://github.com/Rushikesh1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/Rushikesh1234" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/khamkar-rushikesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khamkar-rushikesh/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rushi_khamkar121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rushi_khamkar121" height="30" width="40" /></a> 
