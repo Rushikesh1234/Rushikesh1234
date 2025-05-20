@@ -4,12 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<h3 align="left">📄 Resume:</h3>
-<p align="left">
-  <a href="https://github.com/user-attachments/files/20322231/Rushikesh.Khamkar.-.Resume.pdf" target="_blank" rel="noopener noreferrer">
-    View My Resume
-  </a>
-</p>
+<p align="left">📄 Resume: <a href="https://github.com/user-attachments/files/20322231/Rushikesh.Khamkar.-.Resume.pdf" target="_blank" rel="noopener noreferrer">View My Resume</a></p>
 
 
 <a href="https://github.com/Rushikesh1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/Rushikesh1234" height="30" width="40" /></a>
