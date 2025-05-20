@@ -6,7 +6,7 @@
 
 <h3 align="left">📄 Resume:</h3>
 <p align="left">
-  <a href="https://github.com/user-attachments/files/20322231/Rushikesh.Khamkar.-.Resume.pdf" target="_blank">View My Resume</a>
+  <a href="https://github.com/user-attachments/files/20322231/Rushikesh.Khamkar.-.Resume.pdf" target="_blank" rel="noopener noreferrer">View My Resume</a>
 </p>
 
 
