@@ -60,50 +60,49 @@ I'm currently focused on:
 
 ---
 
-## 💼 Experience
 
 <h2>💼 Experience</h2>
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/University_of_Maine_seal.svg" width="60" alt="UMaine Logo">
-      <h4>Application Developer</h4>
-      <p><strong>University of Maine System</strong></p>
-      <p><em>Nov 2023 – Present</em></p>
-      <ul align="left">
-        <li>Architected distributed systems and pipelines.</li>
-        <li>Integrated Oracle DB & REST APIs.</li>
-        <li>Automated LLM-based ETL flows with Informatica.</li>
-        <li>Improved latency and system observability.</li>
-      </ul>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Texas_Tech_Athletics_logo.svg/1200px-Texas_Tech_Athletics_logo.svg.png" width="60" alt="TTU Logo">
-      <h4>Software Developer</h4>
-      <p><strong>Texas Tech University</strong></p>
-      <p><em>Sep 2021 – Oct 2023</em></p>
-      <ul align="left">
-        <li>Built ERP data pipelines & REST APIs.</li>
-        <li>Optimized SQL/SOQL for high-traffic systems.</li>
-        <li>Developed test suites for critical workflows.</li>
-        <li>Synchronized multi-system records (Salesforce, Oracle).</li>
-      </ul>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Accenture_Logo.svg" width="60" alt="Accenture Logo">
-      <h4>Associate Software Engineer</h4>
-      <p><strong>Accenture</strong></p>
-      <p><em>Aug 2019 – Aug 2021</em></p>
-      <ul align="left">
-        <li>Built APIs & middleware on Salesforce.</li>
-        <li>Automated business logic with Apex & Flows.</li>
-        <li>Supported CRM for 38M+ users.</li>
-        <li>Resolved incidents in distributed environments.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <div style="background: linear-gradient(135deg, #003057, #0066cc); color: white; width: 300px; border-radius: 15px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/University_of_Maine_seal.svg" alt="UMaine Logo" width="50" style="display:block; margin: 0 auto 10px;">
+    <h3 style="text-align:center;">Application Developer</h3>
+    <p style="text-align:center;"><strong>University of Maine System</strong><br><em>Nov 2023 – Present</em></p>
+    <ul>
+      <li>Built distributed systems & APIs.</li>
+      <li>Integrated Oracle & LLMs.</li>
+      <li>Automated ETL workflows.</li>
+      <li>Improved latency & observability.</li>
+    </ul>
+  </div>
+
+  <div style="background: linear-gradient(135deg, #cc0000, #000000); color: white; width: 300px; border-radius: 15px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Texas_Tech_Athletics_logo.svg/1200px-Texas_Tech_Athletics_logo.svg.png" alt="TTU Logo" width="50" style="display:block; margin: 0 auto 10px;">
+    <h3 style="text-align:center;">Software Developer</h3>
+    <p style="text-align:center;"><strong>Texas Tech University</strong><br><em>Sep 2021 – Oct 2023</em></p>
+    <ul>
+      <li>Built ERP pipelines & REST APIs.</li>
+      <li>Optimized queries & workflows.</li>
+      <li>Developed test suites.</li>
+      <li>Synced Salesforce & Oracle data.</li>
+    </ul>
+  </div>
+
+  <div style="background: linear-gradient(135deg, #a100ff, #5500cc); color: white; width: 300px; border-radius: 15px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Accenture_Logo.svg" alt="Accenture Logo" width="50" style="display:block; margin: 0 auto 10px;">
+    <h3 style="text-align:center;">Associate Software Engineer</h3>
+    <p style="text-align:center;"><strong>Accenture</strong><br><em>Aug 2019 – Aug 2021</em></p>
+    <ul>
+      <li>Built middleware & APIs on Salesforce.</li>
+      <li>Automated Apex workflows.</li>
+      <li>Supported 38M+ CRM users.</li>
+      <li>Resolved distributed incidents.</li>
+    </ul>
+  </div>
+
+</div>
+
 
 
 ---
