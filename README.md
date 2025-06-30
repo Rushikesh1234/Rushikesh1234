@@ -24,6 +24,10 @@
 
 
 
+
+
+
+
 <h1 align="center">Hi 👋, I'm Rushikesh Khamkar</h1>
 <h3 align="center">Software Engineer | Backend Systems | Cloud & AI Automation</h3>
 
@@ -60,50 +64,23 @@ I'm currently focused on:
 
 ---
 
+## 💼 Experience
 
-<h2>💼 Experience</h2>
+**🔹 Application Developer**  
+*University of Maine System — Portland, ME | Nov 2023 – Present*  
+- Designed and optimized distributed systems and backend pipelines  
+- Integrated Oracle DBs, REST APIs, and automated LLM-based ETL pipelines  
+- Reduced ETL failure rate by 40% using Informatica  
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+**🔹 Software Developer**  
+*Texas Tech University — Lubbock, TX | Sep 2021 – Oct 2023*  
+- Scaled integrations across ERP systems (Salesforce, Oracle, PeopleSoft)  
+- Developed test suites and optimized high-traffic workflows  
 
-  <div style="background: linear-gradient(135deg, #003057, #0066cc); color: white; width: 300px; border-radius: 15px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/University_of_Maine_seal.svg" alt="UMaine Logo" width="50" style="display:block; margin: 0 auto 10px;">
-    <h3 style="text-align:center;">Application Developer</h3>
-    <p style="text-align:center;"><strong>University of Maine System</strong><br><em>Nov 2023 – Present</em></p>
-    <ul>
-      <li>Built distributed systems & APIs.</li>
-      <li>Integrated Oracle & LLMs.</li>
-      <li>Automated ETL workflows.</li>
-      <li>Improved latency & observability.</li>
-    </ul>
-  </div>
-
-  <div style="background: linear-gradient(135deg, #cc0000, #000000); color: white; width: 300px; border-radius: 15px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Texas_Tech_Athletics_logo.svg/1200px-Texas_Tech_Athletics_logo.svg.png" alt="TTU Logo" width="50" style="display:block; margin: 0 auto 10px;">
-    <h3 style="text-align:center;">Software Developer</h3>
-    <p style="text-align:center;"><strong>Texas Tech University</strong><br><em>Sep 2021 – Oct 2023</em></p>
-    <ul>
-      <li>Built ERP pipelines & REST APIs.</li>
-      <li>Optimized queries & workflows.</li>
-      <li>Developed test suites.</li>
-      <li>Synced Salesforce & Oracle data.</li>
-    </ul>
-  </div>
-
-  <div style="background: linear-gradient(135deg, #a100ff, #5500cc); color: white; width: 300px; border-radius: 15px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Accenture_Logo.svg" alt="Accenture Logo" width="50" style="display:block; margin: 0 auto 10px;">
-    <h3 style="text-align:center;">Associate Software Engineer</h3>
-    <p style="text-align:center;"><strong>Accenture</strong><br><em>Aug 2019 – Aug 2021</em></p>
-    <ul>
-      <li>Built middleware & APIs on Salesforce.</li>
-      <li>Automated Apex workflows.</li>
-      <li>Supported 38M+ CRM users.</li>
-      <li>Resolved distributed incidents.</li>
-    </ul>
-  </div>
-
-</div>
-
-
+**🔹 Associate Software Engineer**  
+*Accenture — Mumbai, India | Aug 2019 – Aug 2021*  
+- Built enterprise-grade APIs and automation on Salesforce using Apex  
+- Reduced business latency and incident volume by over 60%
 
 ---
 
@@ -147,3 +124,4 @@ I'm currently focused on:
 <a href="https://www.hackerrank.com/rushi_khamkar121" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank" /></a>
 
 ---
+
