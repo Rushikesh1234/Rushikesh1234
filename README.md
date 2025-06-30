@@ -62,84 +62,49 @@ I'm currently focused on:
 
 ## 💼 Experience
 
-<style>
-  .experience-grid {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-  }
+<h2>💼 Experience</h2>
 
-  .tile {
-    flex: 1 1 300px;
-    border: 1px solid #e1e4e8;
-    border-radius: 12px;
-    padding: 16px;
-    box-shadow: 2px 2px 10px rgba(0,0,0,0.05);
-    transition: transform 0.2s;
-  }
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/University_of_Maine_seal.svg" width="60" alt="UMaine Logo">
+      <h4>Application Developer</h4>
+      <p><strong>University of Maine System</strong></p>
+      <p><em>Nov 2023 – Present</em></p>
+      <ul align="left">
+        <li>Architected distributed systems and pipelines.</li>
+        <li>Integrated Oracle DB & REST APIs.</li>
+        <li>Automated LLM-based ETL flows with Informatica.</li>
+        <li>Improved latency and system observability.</li>
+      </ul>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Texas_Tech_Athletics_logo.svg/1200px-Texas_Tech_Athletics_logo.svg.png" width="60" alt="TTU Logo">
+      <h4>Software Developer</h4>
+      <p><strong>Texas Tech University</strong></p>
+      <p><em>Sep 2021 – Oct 2023</em></p>
+      <ul align="left">
+        <li>Built ERP data pipelines & REST APIs.</li>
+        <li>Optimized SQL/SOQL for high-traffic systems.</li>
+        <li>Developed test suites for critical workflows.</li>
+        <li>Synchronized multi-system records (Salesforce, Oracle).</li>
+      </ul>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Accenture_Logo.svg" width="60" alt="Accenture Logo">
+      <h4>Associate Software Engineer</h4>
+      <p><strong>Accenture</strong></p>
+      <p><em>Aug 2019 – Aug 2021</em></p>
+      <ul align="left">
+        <li>Built APIs & middleware on Salesforce.</li>
+        <li>Automated business logic with Apex & Flows.</li>
+        <li>Supported CRM for 38M+ users.</li>
+        <li>Resolved incidents in distributed environments.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-  .tile:hover {
-    transform: scale(1.02);
-    background-color: #f6f8fa;
-  }
-
-  .tile img {
-    width: 32px;
-    height: 32px;
-    vertical-align: middle;
-    margin-right: 10px;
-  }
-
-  .tile h3 {
-    margin: 0;
-    font-size: 18px;
-  }
-
-  .tile p {
-    margin: 4px 0 10px;
-    font-size: 14px;
-    color: #586069;
-  }
-
-  .tile ul {
-    padding-left: 20px;
-    font-size: 14px;
-  }
-</style>
-
-<div class="experience-grid">
-
-  <div class="tile">
-    <h3><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Seal_of_the_University_of_Maine.svg" alt="UMS Logo"> Application Developer</h3>
-    <p>University of Maine System — Portland, ME<br><em>Nov 2023 – Present</em></p>
-    <ul>
-      <li>Designed and optimized distributed backend pipelines</li>
-      <li>Integrated Oracle DBs, REST APIs, and LLM-based ETL</li>
-      <li>Reduced ETL failure rate by 40% using Informatica</li>
-    </ul>
-  </div>
-
-  <div class="tile">
-    <h3><img src="https://upload.wikimedia.org/wikipedia/en/0/0d/Texas_Tech_University_logo.svg" alt="TTU Logo"> Software Developer</h3>
-    <p>Texas Tech University — Lubbock, TX<br><em>Sep 2021 – Oct 2023</em></p>
-    <ul>
-      <li>Scaled ERP integrations (Salesforce, Oracle, PeopleSoft)</li>
-      <li>Built automated test suites for mission-critical systems</li>
-      <li>Improved data flow & job performance with profiling</li>
-    </ul>
-  </div>
-
-  <div class="tile">
-    <h3><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Accenture.svg" alt="Accenture Logo"> Associate Software Engineer</h3>
-    <p>Accenture — Mumbai, India<br><em>Aug 2019 – Aug 2021</em></p>
-    <ul>
-      <li>Developed enterprise APIs and backend logic in Apex</li>
-      <li>Integrated CRM systems with cloud-based automation</li>
-      <li>Reduced business latency and incidents by 60%</li>
-    </ul>
-  </div>
-
-</div>
 
 ---
 
