@@ -62,21 +62,84 @@ I'm currently focused on:
 
 ## 💼 Experience
 
-**🔹 Application Developer**  
-*University of Maine System — Portland, ME | Nov 2023 – Present*  
-- Designed and optimized distributed systems and backend pipelines  
-- Integrated Oracle DBs, REST APIs, and automated LLM-based ETL pipelines  
-- Reduced ETL failure rate by 40% using Informatica  
+<style>
+  .experience-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
 
-**🔹 Software Developer**  
-*Texas Tech University — Lubbock, TX | Sep 2021 – Oct 2023*  
-- Scaled integrations across ERP systems (Salesforce, Oracle, PeopleSoft)  
-- Developed test suites and optimized high-traffic workflows  
+  .tile {
+    flex: 1 1 300px;
+    border: 1px solid #e1e4e8;
+    border-radius: 12px;
+    padding: 16px;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.05);
+    transition: transform 0.2s;
+  }
 
-**🔹 Associate Software Engineer**  
-*Accenture — Mumbai, India | Aug 2019 – Aug 2021*  
-- Built enterprise-grade APIs and automation on Salesforce using Apex  
-- Reduced business latency and incident volume by over 60%
+  .tile:hover {
+    transform: scale(1.02);
+    background-color: #f6f8fa;
+  }
+
+  .tile img {
+    width: 32px;
+    height: 32px;
+    vertical-align: middle;
+    margin-right: 10px;
+  }
+
+  .tile h3 {
+    margin: 0;
+    font-size: 18px;
+  }
+
+  .tile p {
+    margin: 4px 0 10px;
+    font-size: 14px;
+    color: #586069;
+  }
+
+  .tile ul {
+    padding-left: 20px;
+    font-size: 14px;
+  }
+</style>
+
+<div class="experience-grid">
+
+  <div class="tile">
+    <h3><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Seal_of_the_University_of_Maine.svg" alt="UMS Logo"> Application Developer</h3>
+    <p>University of Maine System — Portland, ME<br><em>Nov 2023 – Present</em></p>
+    <ul>
+      <li>Designed and optimized distributed backend pipelines</li>
+      <li>Integrated Oracle DBs, REST APIs, and LLM-based ETL</li>
+      <li>Reduced ETL failure rate by 40% using Informatica</li>
+    </ul>
+  </div>
+
+  <div class="tile">
+    <h3><img src="https://upload.wikimedia.org/wikipedia/en/0/0d/Texas_Tech_University_logo.svg" alt="TTU Logo"> Software Developer</h3>
+    <p>Texas Tech University — Lubbock, TX<br><em>Sep 2021 – Oct 2023</em></p>
+    <ul>
+      <li>Scaled ERP integrations (Salesforce, Oracle, PeopleSoft)</li>
+      <li>Built automated test suites for mission-critical systems</li>
+      <li>Improved data flow & job performance with profiling</li>
+    </ul>
+  </div>
+
+  <div class="tile">
+    <h3><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Accenture.svg" alt="Accenture Logo"> Associate Software Engineer</h3>
+    <p>Accenture — Mumbai, India<br><em>Aug 2019 – Aug 2021</em></p>
+    <ul>
+      <li>Developed enterprise APIs and backend logic in Apex</li>
+      <li>Integrated CRM systems with cloud-based automation</li>
+      <li>Reduced business latency and incidents by 60%</li>
+    </ul>
+  </div>
+
+</div>
 
 ---
 
