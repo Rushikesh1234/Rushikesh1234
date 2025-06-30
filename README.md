@@ -32,96 +32,132 @@
 <h3 align="center">Software Engineer | Backend Systems | Cloud & AI Automation</h3>
 
 <p align="center">
-📫 Email: <strong>rushi.khamkar1234@gmail.com</strong> • 📍 Portland, ME • 📱 +1 (806) 760-0163  
+📫 <strong>Email:</strong> rushi.khamkar1234@gmail.com &nbsp;|&nbsp; 📍 Portland, ME &nbsp;|&nbsp; 📱 +1 (806) 760-0163  
 <br>
-🌐 <a href="https://www.linkedin.com/in/khamkar-rushikesh/" target="_blank">LinkedIn</a> •  
+<a href="https://www.linkedin.com/in/khamkar-rushikesh/" target="_blank">LinkedIn</a> •  
 <a href="https://github.com/Rushikesh1234" target="_blank">GitHub</a> •  
 <a href="https://github.com/user-attachments/files/20969098/Rushikesh.Khamkar.Resume.pdf" target="_blank">Resume (PDF)</a>
 </p>
 
 ---
 
-## 🚀 About Me
-
-I'm a Software Engineer with 4+ years of experience building scalable backend systems and automating enterprise data pipelines. I love working at the intersection of **cloud computing**, **data engineering**, and **AI**, with a focus on building reliable, observable, and scalable infrastructure. 
-
-I'm currently focused on:
-- AI-driven backend automation using LLMs (LangChain, OpenAI, Ollama)
-- Distributed systems architecture on AWS
-- Data flow optimization & backend performance tuning
-
----
-
-## 🧠 Skills & Tools
-
-**Languages**: Java, Python, PHP, C++, Apex, SQL, Bash, PowerShell  
-**Databases**: Oracle, MS-SQL (T-SQL), SOQL, Data Modeling, Optimization  
-**Cloud & Platforms**: AWS, Salesforce, Informatica, PeopleSoft  
-**Backend & Systems**: REST APIs, Microservices, Docker, Distributed Systems  
-**Observability**: Logging, Monitoring, Debugging, Fault Tolerance  
-**Dev Tools**: VSCode, IntelliJ, Postman, GitHub  
-**Soft Skills**: System Thinking, Collaboration, Technical Ownership, Root Cause Analysis
+## 📋 Contents  
+- [About Me](#-about-me)  
+- [Skills & Tools](#-skills--tools)  
+- [Experience](#-experience)  
+- [Education](#-education)  
+- [Projects](#-projects)  
+- [GitHub Stats](#-github-stats)  
+- [Connect with Me](#-connect-with-me)  
 
 ---
 
-## 💼 Experience
+## 🧠 About Me <a id="about-me"></a>
 
-**🔹 Application Developer**  
-*University of Maine System — Portland, ME | Nov 2023 – Present*  
-- Designed and optimized distributed systems and backend pipelines  
-- Integrated Oracle DBs, REST APIs, and automated LLM-based ETL pipelines  
-- Reduced ETL failure rate by 40% using Informatica  
-
-**🔹 Software Developer**  
-*Texas Tech University — Lubbock, TX | Sep 2021 – Oct 2023*  
-- Scaled integrations across ERP systems (Salesforce, Oracle, PeopleSoft)  
-- Developed test suites and optimized high-traffic workflows  
-
-**🔹 Associate Software Engineer**  
-*Accenture — Mumbai, India | Aug 2019 – Aug 2021*  
-- Built enterprise-grade APIs and automation on Salesforce using Apex  
-- Reduced business latency and incident volume by over 60%
+I'm a Software Engineer with 4+ years of experience building scalable backend systems and automating enterprise data workflows. I specialize in cloud architecture, AI-driven automation, and performance tuning to deliver reliable, scalable software solutions.
 
 ---
 
-## 🎓 Education
+## 🛠️ Skills & Tools <a id="skills--tools"></a>
 
-**M.S. in Computer Science**  
-*Texas Tech University | 2021 – 2023*
+<details>
+<summary>Click to expand skills and tools</summary>
 
-**B.E. in Computer Engineering**  
-*Pune University, India | 2016 – 2019*
+- **Languages:** Java, Python, PHP, C++, Apex, SQL, Bash, PowerShell  
+- **Databases:** Oracle, MS-SQL (T-SQL), SOQL, Data Modeling & Optimization  
+- **Cloud & Platforms:** AWS, Salesforce, Informatica, PeopleSoft  
+- **Backend & Systems:** REST APIs, Microservices, Docker, Distributed Systems  
+- **Observability:** Logging, Monitoring, Debugging, Fault Tolerance  
+- **Tools:** VSCode, IntelliJ, Postman, GitHub  
+- **Soft Skills:** Systems Thinking, Collaboration, Ownership, Root Cause Analysis
 
----
-
-## 🧩 Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔗 [ConsultIQ - AI Document Reasoning](https://github.com/Rushikesh1234/ConsultIQ-AI) | Multi-agent system for PDF analysis using LangChain, OpenAI, and Streamlit | Python, LangChain, Chroma, SQLite |
-| 🔗 [LLM-Powered Oracle Assistant](https://github.com/Rushikesh1234/LLM-Powered-Oracle-Database-Assistant) | Natural language → Oracle SQL via local LLMs with RBAC | Python, Ollama, oracledb, Streamlit |
-| 🔗 [Cloud Dropbox Clone](https://github.com/Rushikesh1234/dropbox-backend) | AWS-based storage clone with secure REST APIs | Python, AWS (S3, RDS), SQLAlchemy, Streamlit |
+</details>
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experience <a id="experience"></a>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rushikesh1234&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<details>
+<summary>Click to expand experience</summary>
+
+### Application Developer  
+**University of Maine System** – Portland, ME | Nov 2023 – Present  
+- Architected distributed backend systems and optimized data pipelines.  
+- Developed REST APIs integrating Oracle databases for scalable data services.  
+- Automated ETL workflows with Informatica, reducing failure rates by 40%.  
+- Integrated large language models to automate data processing.
+
+### Software Developer  
+**Texas Tech University** – Lubbock, TX | Sep 2021 – Oct 2023  
+- Maintained backend ERP integrations and API logic across 150+ services.  
+- Built scalable data flows syncing Salesforce, Oracle, and PeopleSoft.  
+- Developed comprehensive testing suites for critical workflows.  
+- Optimized SQL and SOQL queries, halving response times.
+
+### Associate Software Engineer  
+**Accenture** – Mumbai, India | Aug 2019 – Aug 2021  
+- Developed Apex backend services for CRM with 38M+ users.  
+- Built reusable Salesforce middleware APIs ensuring data integrity.  
+- Automated backend processes, cutting latency and support tickets by 60%.  
+
+</details>
+
+---
+
+## 🎓 Education <a id="education"></a>
+
+<details>
+<summary>Click to expand education</summary>
+
+- **Master of Science in Computer Science**  
+  Texas Tech University | 2021 – 2023  
+
+- **Bachelor of Engineering in Computer Engineering**  
+  Pune University, India | 2016 – 2019  
+
+</details>
+
+---
+
+## 📂 Projects <a id="projects"></a>
+
+<details>
+<summary>Click to expand projects</summary>
+
+### [ConsultIQ - Multi-Agent LLM System for Document Reasoning](https://github.com/Rushikesh1234/ConsultIQ-AI)  
+AI assistant extracting insights from PDFs using OpenAI, LangChain, and vector search. Features multi-agent planning and execution with a Streamlit UI for interactive enterprise use.
+
+---
+
+### [LLM-Powered Oracle Database Assistant](https://github.com/Rushikesh1234/LLM-Powered-Oracle-Database-Assistant)  
+Natural language to Oracle SQL query translator using local LLMs (Ollama), fine-tuned on enterprise schemas. Includes secure role-based access control and Streamlit frontend.
+
+---
+
+### [Cloud Storage System (Dropbox Clone) using AWS](https://github.com/Rushikesh1234/dropbox-backend)  
+Scalable file storage backend on AWS (S3, RDS) with secure REST APIs, JWT authentication, and a Streamlit frontend for file management and prototyping.
+
+</details>
+
+---
+
+## 📊 GitHub Stats <a id="github-stats"></a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rushikesh1234&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
----
-
-## 🤝 Connect with Me
-
-<a href="https://www.linkedin.com/in/khamkar-rushikesh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
-<a href="https://github.com/Rushikesh1234" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?logo=github" /></a>
-<a href="https://leetcode.com/rushikesh2004/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode" /></a>
-<a href="https://www.hackerrank.com/rushi_khamkar121" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rushikesh1234&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
+## 🤝 Connect with Me <a id="connect-with-me"></a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/khamkar-rushikesh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://github.com/Rushikesh1234" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" alt="GitHub" /></a>
+  <a href="https://leetcode.com/rushikesh2004/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=for-the-badge" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/rushi_khamkar121" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&style=for-the-badge" alt="HackerRank" /></a>
+</p>
