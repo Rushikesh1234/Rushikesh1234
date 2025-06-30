@@ -63,13 +63,38 @@ I'm a Software Engineer with 4+ years of experience building scalable backend sy
 <details>
 <summary>Click to expand skills and tools</summary>
 
-- **Languages:** Java, Python, PHP, C++, Apex, SQL, Bash, PowerShell  
-- **Databases:** Oracle, MS-SQL (T-SQL), SOQL, Data Modeling & Optimization  
-- **Cloud & Platforms:** AWS, Salesforce, Informatica, PeopleSoft  
-- **Backend & Systems:** REST APIs, Microservices, Docker, Distributed Systems  
-- **Observability:** Logging, Monitoring, Debugging, Fault Tolerance  
-- **Tools:** VSCode, IntelliJ, Postman, GitHub  
-- **Soft Skills:** Systems Thinking, Collaboration, Ownership, Root Cause Analysis
+<p align="left">
+<!-- Programming Languages -->
+<strong>💻 Languages:</strong>  
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" /></a>  
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30" /></a>  
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" /></a>  
+<a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30" /></a>  
+<a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro.htm" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Salesforce_logo.svg" alt="Apex" width="30" height="30" /></a>  
+</p>
+
+<p align="left">
+<!-- Databases -->
+<strong>🗄️ Databases:</strong>  
+<a href="https://www.oracle.com/database/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="30" height="30" /></a>  
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS-SQL" width="30" height="30" /></a>  
+<a href="https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Salesforce_logo.svg" alt="SOQL" width="30" height="30" /></a>  
+</p>
+
+<p align="left">
+<!-- Cloud & Platforms -->
+<strong>☁️ Cloud & Platforms:</strong>  
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="30" height="30" /></a>  
+<a href="https://www.salesforce.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Salesforce_logo.svg" alt="Salesforce" width="30" height="30" /></a>  
+<a href="https://www.informatica.com/" target="_blank"><img src="https://seeklogo.com/images/I/informatica-logo-4439C04AB3-seeklogo.com.png" alt="Informatica" width="30" height="30" /></a>  
+<a href="https://www.oracle.com/peoplesoft/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Oracle_logo.svg" alt="PeopleSoft" width="30" height="30" /></a>  
+</p>
+
+<p align="left">
+<!-- Backend & Tools -->
+<strong>⚙️ Backend & Tools:</strong>  
+Docker • REST APIs • Microservices • VSCode • IntelliJ • Postman • GitHub  
+</p>
 
 </details>
 
