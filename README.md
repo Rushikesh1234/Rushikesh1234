@@ -20,7 +20,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 
-<p align="center">📄 Resume: <a href="https://github.com/user-attachments/files/23530254/Rushikesh.Khamkar.Resume.pdf" target="_blank" rel="noopener noreferrer">Download My Resume</a></p>
+<p align="center">📄 Resume: <a href="https://github.com/user-attachments/files/23967710/Rushikesh_Khamkar_Resume.pdf" target="_blank" rel="noopener noreferrer">Download My Resume</a></p>
 
 <p align="center">
   <a href="https://github.com/Rushikesh1234" target="_blank">
