@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Rushikesh Khamkar</h1>
-<h3 align="center">Backend Engineer | System Thinker | AI Workflow Builder</h3>
+<h3 align="center">Backend Engineer | System Thinker </h3>
 
 <p align="center">
   I'm a software engineer with 4+ years of experience building robust backend systems, scalable microservices, and AI-integrated data platforms. I thrive at the intersection of systems engineering, cloud architecture, and intelligent automation—designing solutions that don't just work, but scale and evolve.
@@ -20,7 +20,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 
-<p align="center">📄 Resume: <a href="https://drive.google.com/file/d/1i540aivysIyzGUUVHNf1WvhYkR7ctkzG/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download My Resume</a></p>
+<p align="center">📄 Resume: <a href="https://drive.google.com/file/d/1Hl4utYCkpPIAv5ErbjmZ6PqbVAr624GN/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download My Resume</a></p>
 
 <p align="center">
   <a href="https://github.com/Rushikesh1234" target="_blank">
