@@ -2,7 +2,7 @@
 <h3 align="center">Backend Engineer | System Thinker </h3>
 
 <p align="center">
-  I'm a software engineer with 4+ years of experience building robust backend systems, scalable microservices, and AI-integrated data platforms. I thrive at the intersection of systems engineering, cloud architecture, and intelligent automation—designing solutions that don't just work, but scale and evolve.
+  I'm a software engineer with 4 years of experience building robust backend systems, scalable microservices, and AI-integrated data platforms. I thrive at the intersection of systems engineering, cloud architecture, and intelligent automation—designing solutions that don't just work, but scale and evolve.
 </p>
 
 ---
